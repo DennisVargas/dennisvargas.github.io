@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DennisVargas/dennisvargas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Dennis Vargas: Building Worlds with Code & Music 👨🏽‍💻 🎵
+I'm a passionate creative technologist driven by the magic of code and the power of music to build immersive and engaging experiences. Whether it's crafting interactive worlds in games, composing captivating soundtracks, or developing innovative apps, I'm always on the lookout for new ways to blend technology and creativity.
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
